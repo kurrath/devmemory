@@ -1,0 +1,7 @@
+node_modules/
+dist/
+data/
+.envnode_modules
+dist
+.DS_Store
+*.local
